@@ -32,7 +32,7 @@ pip install opencv-python mediapipe pytesseract PyQt5
 
 ---
 
-##How to Run
+## How to Run
 
 1. Clone this repository:
    ```bash
@@ -45,4 +45,38 @@ pip install opencv-python mediapipe pytesseract PyQt5
    python main.py
 
 3. Use hand gestures to draw on the canvas and interact with the UI
+
+---
+
+## Functionality
+
+- ** Drawing Mode: Activate by raising the index finger.
+- ** Erase Mode: Activate by raising all fingers and waving.
+- ** Clear Canvas: Click the "Clear Canvas" button on the UI.
+- ** Save Text: Use the "Save Detected Text" button to store recognized text.
+
+---
+
+## Contributing
+
+1. Fork this repository.
+2. Create a new branch: git checkout -b feature-branch.
+3. Make your changes and commit them: git commit -m "Add new feature".
+4. Push to the branch: git push origin feature-branch.
+5. Submit a pull request.
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more information.
+
+---
+
+## Contact
+
+- Email: harshithstanes@gmail.com
+- LinkedIn: www.linkedin.com/in/hvr2503
+
+
 
