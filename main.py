@@ -1,9 +1,5 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-# In[ ]:
-
-
 import sys
 import cv2
 import mediapipe as mp
@@ -13,8 +9,6 @@ import time
 from PyQt5.QtWidgets import QApplication, QMainWindow, QLabel, QVBoxLayout, QWidget, QPushButton, QTextEdit, QFileDialog
 from PyQt5.QtCore import QTimer, Qt
 from PyQt5.QtGui import QImage, QPixmap
-
-
 
 
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
