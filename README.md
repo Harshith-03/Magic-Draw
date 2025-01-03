@@ -40,7 +40,7 @@ pip install opencv-python mediapipe pytesseract PyQt5
    cd Magic-Draw
    ```
 
-2. Run the application:\
+2. Run the application:
    ```bash
    python main.py
 
@@ -50,10 +50,10 @@ pip install opencv-python mediapipe pytesseract PyQt5
 
 ## Functionality
 
-- ** Drawing Mode: Activate by raising the index finger.
-- ** Erase Mode: Activate by raising all fingers and waving.
-- ** Clear Canvas: Click the "Clear Canvas" button on the UI.
-- ** Save Text: Use the "Save Detected Text" button to store recognized text.
+- **Drawing Mode:** Activate by raising the index finger.
+- **Erase Mode:** Activate by raising all fingers and waving.
+- **Clear Canvas:** Click the "Clear Canvas" button on the UI.
+- **Save Text:** Use the "Save Detected Text" button to store recognized text.
 
 ---
 
